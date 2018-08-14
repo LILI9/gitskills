@@ -1,3 +1,3 @@
 # gitskills
 
-Create a new brach is quick & simple.
+Create a new brach is quick and simple.
